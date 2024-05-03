@@ -1,7 +1,7 @@
 package repositories
 
 import (
-	"github.com/Matvey1109/LibraryManagementSystemCore/internal/storages"
+	"github.com/Matvey1109/LibraryManagementSystemAPI/internal/storages"
 
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
