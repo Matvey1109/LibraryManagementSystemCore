@@ -3,7 +3,7 @@ package repositories
 import (
 	"errors"
 
-	"github.com/Matvey1109/LibraryManagementSystemCore/internal/models"
+	"github.com/Matvey1109/LibraryManagementSystemCore/core/models"
 )
 
 type BookRepository struct{}

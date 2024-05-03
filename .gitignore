@@ -1,0 +1,5 @@
+.env
+.env_mongo
+bin
+logs
+mongo_data

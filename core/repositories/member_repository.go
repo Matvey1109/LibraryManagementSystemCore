@@ -3,7 +3,7 @@ package repositories
 import (
 	"time"
 
-	"github.com/Matvey1109/LibraryManagementSystemCore/internal/models"
+	"github.com/Matvey1109/LibraryManagementSystemCore/core/models"
 )
 
 type MemberRepository struct{}

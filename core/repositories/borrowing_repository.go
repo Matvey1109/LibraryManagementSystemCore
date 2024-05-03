@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/Matvey1109/LibraryManagementSystemCore/internal/models"
+	"github.com/Matvey1109/LibraryManagementSystemCore/core/models"
 )
 
 type BorrowingRepository struct{}
